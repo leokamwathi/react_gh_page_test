@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/leokamwathi/react_gh_page_test/static/css/main.b100e6da.chunk.css",
+    "main.js": "/leokamwathi/react_gh_page_test/static/js/main.f72a7dbf.chunk.js",
+    "main.js.map": "/leokamwathi/react_gh_page_test/static/js/main.f72a7dbf.chunk.js.map",
+    "runtime-main.js": "/leokamwathi/react_gh_page_test/static/js/runtime-main.d2e92a53.js",
+    "runtime-main.js.map": "/leokamwathi/react_gh_page_test/static/js/runtime-main.d2e92a53.js.map",
+    "static/js/2.023cda59.chunk.js": "/leokamwathi/react_gh_page_test/static/js/2.023cda59.chunk.js",
+    "static/js/2.023cda59.chunk.js.map": "/leokamwathi/react_gh_page_test/static/js/2.023cda59.chunk.js.map",
+    "index.html": "/leokamwathi/react_gh_page_test/index.html",
+    "precache-manifest.b11c15ec572ba3970d18d502b66035e5.js": "/leokamwathi/react_gh_page_test/precache-manifest.b11c15ec572ba3970d18d502b66035e5.js",
+    "service-worker.js": "/leokamwathi/react_gh_page_test/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/leokamwathi/react_gh_page_test/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/leokamwathi/react_gh_page_test/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2e92a53.js",
+    "static/js/2.023cda59.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.f72a7dbf.chunk.js"
+  ]
+}
